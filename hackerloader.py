@@ -1,9 +1,11 @@
+'''Hackerloader - a loader that reveals the selected text from the hackereffect.'''
 import random
 
 from charset import CHARSET
 
 
 def hackerloader(string: str):
+    '''The generator of hackereffect'''
     for char in range(len(string)):
         visible = string[0:char]
         hidden = string[char:len(string)]
