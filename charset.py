@@ -1,0 +1,1 @@
+CHARSET = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm1234567890!\"£$%^&*()-_=+[{}];:'@#~\\|"
